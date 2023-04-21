@@ -1,4 +1,4 @@
-package string_prgms;
+package number_prgms;
 
 public class ReverseANumber {
 
